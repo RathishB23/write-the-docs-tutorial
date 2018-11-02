@@ -21,4 +21,4 @@ Follow these general instructions to make a website with _GitHub Pages_.
 
 Get more details in the [GitHub Pages documentation](https://help.github.com/categories/github-pages-basics/).
 
-![this is an image] (https://mapzen.com/common/styleguide/images/mapzen-logo-icon@2x.png)
+![this is an image] (http://www.stickpng.com/assets/images/58480f2bcef1014c0b5e4933.png)
